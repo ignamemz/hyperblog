@@ -7,13 +7,18 @@ body {
 }
 
 .cabecera {
+    display: flex;
     text-align: left;
     margin: 0;
     padding: 10px;
     background-color: #ffdcad;
 }
 
+.logo {
+    width: 50px;
+}
+
 .cabecera h1 {
     font-size: 20px;
-
+    padding-left: 15px;
 }
